@@ -7,6 +7,7 @@ Cette application analyse les résultats historiques des élections présidentie
 Pour installer et exécuter ce projet, suivez les étapes ci-dessous :
 
 1. **Cloner le dépôt :**
+
    git clone https://github.com/MathysLioson/presidential_IA.git
 
 2. **Installer les dépendances :**
